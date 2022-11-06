@@ -1,4 +1,5 @@
 # FilpPageAnimation
+Note: This source code is for example only, do not try to sell this source code.
 This simple exmaple Filp Page Animation
 
 Watch Now :
